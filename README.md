@@ -1,2 +1,2 @@
-# Modern-Cpp-Challenge
-The modern C++ challenge
+# Coding Challenge
+Solving real-world problems by code
